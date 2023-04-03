@@ -33,6 +33,8 @@ func Execute() {
 				logs.SetLevel(logs.Debug)
 			} else {
 				logs.SetLevel(logs.Info)
+				logs.I.SetFlags(0)
+				logs.I.SetPrefix("[FM] ")
 			}
 		},
 	}
