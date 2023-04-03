@@ -1,0 +1,96 @@
+# FILE META
+# Copyright (C) 2023 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the github.com/xuender/fm package.
+# xuender <xuender@gmail.com>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-03 15:43+0800\n"
+"PO-Revision-Date: 2023-04-03 15:43+0800\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: cmd/init.go:9
+msgid "Init FM config"
+msgstr "初始化FM配置文件"
+
+#: cmd/init.go:10
+msgid ""
+"Init FM config.\n"
+"\n"
+"Create config file .fm.toml."
+msgstr ""
+"初始化FM配置文件。\n"
+"\n"
+"创建配置文件 .fm.toml。"
+
+#: cmd/meta.go:9
+msgid "Show file meta"
+msgstr "现实文件属性"
+
+#: cmd/meta.go:11
+msgid ""
+"Show file meta.\n"
+"\n"
+"  Image, Video, Audio, Archive, Documents, Font, Application, Java, Golang, "
+"JavaScript"
+msgstr ""
+"显示文件属性。\n"
+"\n"
+"  Image, Video, Audio, Archive, Documents, Font, Application, Java, Golang, "
+"JavaScript"
+
+#: cmd/root.go:17
+msgid "File Meta"
+msgstr "文件属性(File Meta)"
+
+#: cmd/root.go:18
+msgid ""
+"File Meta.\n"
+"\n"
+"  Move file based on meta."
+msgstr ""
+"文件属性(File Meta)。\n"
+"\n"
+"根据文件属性移动文件。"
+
+#: cmd/root.go:34
+msgid "Debug Mode"
+msgstr "调试模式"
+
+#: meta/info.go:60
+msgid "Meta: %v"
+msgstr "属性: %v"
+
+#: meta/info.go:61
+#, c-format
+msgid "Time: %s"
+msgstr "时间: %s"
+
+#: ui/service.go:30
+msgid "No configurable meta."
+msgstr "没有可配置属性。"
+
+#: ui/service.go:36
+msgid "Input %v to dir"
+msgstr "输入 %v 目录"
+
+#: ui/service.go:38
+msgid "Continue input"
+msgstr "继续输入"
+
+#: ui/service.go:55
+#, c-format
+msgid "save: %s"
+msgstr "保存: %s"
+
+#: ui/service.go:75
+msgid "Select file type"
+msgstr "选择文件类型"

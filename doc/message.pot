@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-03 15:43+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cmd/init.go:9
+msgid "Init FM config"
+msgstr ""
+
+#: cmd/init.go:10
+msgid ""
+"Init FM config.\n"
+"\n"
+"Create config file .fm.toml."
+msgstr ""
+
+#: cmd/meta.go:9
+msgid "Show file meta"
+msgstr ""
+
+#: cmd/meta.go:11
+msgid ""
+"Show file meta.\n"
+"\n"
+"  Image, Video, Audio, Archive, Documents, Font, Application, Java, Golang, "
+"JavaScript"
+msgstr ""
+
+#: cmd/root.go:17
+msgid "File Meta"
+msgstr ""
+
+#: cmd/root.go:18
+msgid ""
+"File Meta.\n"
+"\n"
+"  Move file based on meta."
+msgstr ""
+
+#: cmd/root.go:34
+msgid "Debug Mode"
+msgstr ""
+
+#: meta/info.go:60
+msgid "Meta: %v"
+msgstr ""
+
+#: meta/info.go:61
+#, c-format
+msgid "Time: %s"
+msgstr ""
+
+#: ui/service.go:30
+msgid "No configurable meta."
+msgstr ""
+
+#: ui/service.go:36
+msgid "Input %v to dir"
+msgstr ""
+
+#: ui/service.go:38
+msgid "Continue input"
+msgstr ""
+
+#: ui/service.go:55
+#, c-format
+msgid "save: %s"
+msgstr ""
+
+#: ui/service.go:75
+msgid "Select file type"
+msgstr ""

@@ -1,11 +1,37 @@
-# fm
+# File Meta (fm)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/xuender/fm)](https://goreportcard.com/report/github.com/xuender/fm)
+
+Move file based on meta.
 
 ## Install
 
 ```shell
 go install github.com/xuender/fm@latest
+```
+
+## Init
+
+Show file meta.
+
+```shell
+fm init
+```
+
+## Meta
+
+Show file meta.
+
+```shell
+fm meta [file or path]
+```
+
+## Move
+
+Move file based on meta.
+
+```shell
+fm
 ```
 
 ## License

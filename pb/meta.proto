@@ -1,0 +1,18 @@
+syntax = "proto3";
+package pb;
+option go_package = "./pb";
+
+// Meta.
+enum Meta {
+	Unknown = 0;
+	Image = 1;
+	Video = 2;
+	Audio = 3;
+	Archive = 4;
+	Documents = 5;
+	Font = 6;
+	Application = 7;
+	Java = 8;
+	Golang = 9;
+	JavaScript = 10;
+}

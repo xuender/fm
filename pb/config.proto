@@ -1,0 +1,9 @@
+syntax = "proto3";
+package pb;
+option go_package = "./pb";
+
+// Config.
+message Config {
+	map<string,string> dirs = 1;
+	repeated string ignore = 2;
+}
