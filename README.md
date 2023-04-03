@@ -1,4 +1,4 @@
-# File Meta (fm)
+# File Meta (FM)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/xuender/fm)](https://goreportcard.com/report/github.com/xuender/fm)
 

@@ -33,7 +33,7 @@ msgstr ""
 
 #: cmd/meta.go:9
 msgid "Show file meta"
-msgstr "现实文件属性"
+msgstr "显示文件属性"
 
 #: cmd/meta.go:11
 msgid ""
