@@ -12,7 +12,7 @@ go install github.com/xuender/fm@latest
 
 ## Init
 
-Show file meta.
+Init FM config.
 
 ```shell
 fm init
