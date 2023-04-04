@@ -16,7 +16,7 @@ func Execute() {
 		Use:     "fm",
 		Short:   t.T("File Meta"),
 		Long:    t.T("File Meta.\n\n  Move file based on meta."),
-		Version: "1.0.1",
+		Version: "1.0.2",
 		Run: func(cmd *cobra.Command, args []string) {
 			defer func() {
 				if err := recover(); err != nil {
