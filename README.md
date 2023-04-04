@@ -15,6 +15,7 @@ go install github.com/xuender/fm@latest
 Init FM config.
 
 ```shell
+cd dir
 fm init
 ```
 
@@ -23,7 +24,7 @@ fm init
 Show file meta.
 
 ```shell
-fm meta [file or path]
+fm meta [file or dir]
 ```
 
 ## Move
@@ -31,6 +32,7 @@ fm meta [file or path]
 Move file based on meta.
 
 ```shell
+cd dir
 fm
 ```
 
